@@ -130,7 +130,7 @@ This project demonstrates how Excel can be leveraged to deliver a **scalable, in
 ---
 
 ## 👨‍💻 Author
-**Mostafa ElRkhawy**  
+**Mostafa ELrkhawy**  
 _Data Analyst | BI Developer_
 
 📧 **Contact:**  
