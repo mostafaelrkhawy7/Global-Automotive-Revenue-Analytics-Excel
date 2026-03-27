@@ -73,6 +73,9 @@ The dashboard was engineered to simulate a **fully interactive analytical applic
 ### 🔴 Customer & Dealer Insights
 ![Customers Dealers](./images/customers_dealers.png)
 
+### 🟣 Strategic Insights (Key Findings)
+![Insights](./images/insights.png)
+
 ### 🟢 Data Model (Star Schema)
 ![Data Model](./images/data_model.png)
 ---
